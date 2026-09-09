@@ -1,19 +1,10 @@
 {
-  "name": "website",
-  "version": "0.0.1",
-  "description": "```sh npm create astro@latest -- --template basics ```",
-  "homepage": "https://github.com/aditya-s-gopalan/aditya-s-gopalan.github.io#readme",
-  "bugs": {
-    "url": "https://github.com/aditya-s-gopalan/aditya-s-gopalan.github.io/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aditya-s-gopalan/aditya-s-gopalan.github.io.git"
-  },
-  "license": "ISC",
-  "author": "",
+  "name": "my-scholar-site",
   "type": "module",
-  "main": "index.js",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=22.12.0"
+  },
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
@@ -22,9 +13,6 @@
   },
   "dependencies": {
     "astro": "^7.3.2"
-  },
-  "engines": {
-    "node": ">=22.12.0"
   },
   "allowScripts": {
     "esbuild": true
