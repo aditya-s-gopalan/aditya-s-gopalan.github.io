@@ -1,17 +1,50 @@
 ---
+import "bulma/css/bulma.min.css";
+import { Content as Bio } from "../content/bio.md";
+import { Content as CV } from "../content/cv.md";
 
+import { Image } from "astro:assets";
+import AdityaHeadshot from "../images/aditya-three-quarter.jpeg";
 ---
 
 <html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
+    <head>
+        <meta charset="utf-8" />
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <link rel="icon" href="/favicon.ico" />
+        <meta name="viewport" content="width=device-width" />
+        <meta name="generator" content={Astro.generator} />
+        <title>Astro</title>
+    </head>
+    <body>
+        <section class="section is-large">
+            <div class="container">
+                <div class="columns">
+                    <div class="column is-one-third">
+                        <figure class="image is-3by5">
+                            <Image
+                                src={AdityaHeadshot}
+                                alt="Aditya S Gopalan presenting at ISESC Student Conference"
+                            />
+                        </figure>
+                    </div>
+                    <div class="column">
+                        <h1 class="title">Aditya S. Gopalan</h1>
+                        <p class="subtitle">
+                            Post-Doctoral Researcher, Industrial Engineering
+                        </p>
+                        <div class="content">
+                            <Bio />
+                            <p>Contact: asgopala at purdue dot edu</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="section is-medium">
+            <div class="content">
+                <CV />
+            </div>
+        </section>
+    </body>
 </html>

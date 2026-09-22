@@ -1,5 +1,5 @@
 {
-  "name": "galactic-gamma",
+  "name": "aditya-s-gopalan",
   "type": "module",
   "version": "0.0.1",
   "engines": {
@@ -12,7 +12,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^7.3.4"
+    "astro": "^7.3.4",
+    "bulma": "^1.0.4"
   },
   "allowScripts": {
     "esbuild": true
