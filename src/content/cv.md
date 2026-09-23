@@ -16,7 +16,7 @@
 
 * __Stochastic Dynamics of Low Earth Orbit Near Full Capacity (2026)__  
   P. Behera, A.S.Gopalan, H. Honnappa  
-  AMOSTech Converence
+  AMOSTech Conference
 
 * __Scaling Limit of a Stochastic Clustering Model on R__ (Submitted)         
   P.S. Dey, S.R. Etesami, A.S. Gopalan
