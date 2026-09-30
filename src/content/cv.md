@@ -14,7 +14,7 @@
 ## Selected Publications
 <!-- To get a new line, put two spaces at the end of each line. -->
 
-* __Stochastic Dynamics of Low Earth Orbit Near Full Capacity (2026)__  
+* __Stochastic Dynamics of Low Earth Orbit Near Full Capacity__ (2026)  
   P. Behera, A.S.Gopalan, H. Honnappa  
   AMOSTech Conference
 
@@ -30,15 +30,15 @@
 * __A Framework for Blockchain Architecture Design__ (Submitted)  
   P.S. Dey, A.S. Gopalan
 
-* __Data Flow Dissemination in a Network (2023)__  
+* __Data Flow Dissemination in a Network__ (2023)  
   A.S. Gopalan, A. Stolyar  
   Queueing Systems Vol. 105 No. 3
 
-* __How to Build a Blockchain: The Asynchronous Composition Model (2022)__ (Invited)  
+* __How to Build a Blockchain: The Asynchronous Composition Model__ (2022) (Invited)  
   P.S. Dey, A.S. Gopalan  
   IEEE Blockchain Technical Briefs, Q3 2022
 
-* __Stability and Scalability of Blockchain Systems (2020)__  
+* __Stability and Scalability of Blockchain Systems__ (2020)  
   A.S. Gopalan, A. Sankararaman, A. Walid, S. Vishwanath  
   Proceedings of the ACM on Measurement and Analysis of Computing Systems Vol. 4 No. 2  
 
