@@ -56,16 +56,15 @@
 
 ## Contributed Talks and Posters
 
-* __Launch Control Strategies to Avoid Bistability in Low Earth Orbit Utilization__
+* __Launch Control for Low Earth Orbit Operation with Large Debris Counts__
   * Stochastic Networks Conference (July 2026)
   * From Grid to Orbit: Space Data Centers and Economy at Scale (September 2026)
+  * Cornell ORIE Young Researchers Workshop (October 2026)
   * INFORMS Annual Meeting (November 2026) [Job Market Showcase]
-
-* __Limits of Hegselmann-Krause Models__
-  * INFORMS Annual Meeting (October 2025) [Job Market Showcase]
 
 * __Results on the 2R-Conjecture for the Hegselmann-Krause Model__
   * INFORMS Applied Probability Society Meeting (July 2025)
+  * INFORMS Annual Meeting (October 2025) [Job Market Showcase]
 
 * __Dynamics of Consensus in Blockchains__
   * INFORMS Applied Probability Society Meeting (July 2025)

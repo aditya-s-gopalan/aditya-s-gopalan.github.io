@@ -3,3 +3,5 @@ Aditya S. Gopalan is a Postdoctoral Fellow at the Edwardson School of Industrial
 Aditya received his bachelor's degree from MIT and his Ph.D. from University of Illinois Urbana-Champaign. He is a recipient of UIUC Grainger College of Engineering's Mavis Future Faculty Fellowship and the UIUC ISE William A. Chittenden II Outstanding Graduate Student Award.
 
 [Google Scholar](https://scholar.google.com/citations?user=qRF3If0AAAAJ&hl=en)
+
+**Aditya is on the 2026-2027 Academic Job Market.**
